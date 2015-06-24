@@ -77,6 +77,7 @@ The following guide is a collection of swift resources I have been/will be learn
 - [ReactiveCocoa](https://github.com/ReactiveCocoa/ReactiveCocoa)
 - [Alamofire](https://github.com/Alamofire/Alamofire/tree/swift-2.0)
 - [iOS Charts](https://github.com/danielgindi/ios-charts)
+- [BEMSimpleLineGraph](https://github.com/Boris-Em/BEMSimpleLineGraph)
 - [SwiftLint](https://github.com/realm/SwiftLint)
 - [Spring](https://github.com/MengTo/Spring)
 - [Quick](https://github.com/Quick/Quick)
