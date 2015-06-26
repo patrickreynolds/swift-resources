@@ -32,6 +32,11 @@ The following guide is a collection of swift resources I have been/will be learn
 - [Ray Wenderlich](http://www.raywenderlich.com/swift-language-tutorials)
 - [We ❤️ Swift](https://www.weheartswift.com)
 - [Jameson Quave](http://jamesonquave.com)
+- [Holko](http://holko.pl)
+- [Jameson Quave](http://jamesonquave.com)
+- [Beginners Guide to Swift](http://blog.teamtreehouse.com/an-absolute-beginners-guide-to-swift)
+- [Swift Programming Lanaguage Intro](http://www.appcoda.com/swift-programming-language-intro)
+- [Learnswift.io](http://www.learnswift.io)
 
 
 # Awesome Swifters
@@ -55,6 +60,9 @@ The following guide is a collection of swift resources I have been/will be learn
 - [Maxwell Swadling](https://github.com/mxswd)
 - [Robert Payne](https://github.com/robertjpayne)
 - [Viktor Radchenko](https://github.com/vikmeup)
+- [Lex Tang](https://github.com/lexrus)
+- [Arkadiusz Holko](https://github.com/fastred)
+- [Ankur Patel](https://github.com/ankurp)
 
 
 # Apple Docs
@@ -71,12 +79,15 @@ The following guide is a collection of swift resources I have been/will be learn
 - [Intro to iOS App Development with Swift by Udacity](https://www.udacity.com/course/intro-to-ios-app-development-with-swift--ud585)
 - [Swift: First Look](https://www.codeschool.com/pluralsight-courses/swift-first-look)
 - [The Complete iOS8 and Swift Course](https://www.udemy.com/complete-ios-developer-course)
+- [Swift Tutorials by Novall Khan](https://www.youtube.com/playlist?list=PLNh8C75j8VxZdSBzSKwAClGulfUwmajzH)
+- [Swift for Absolute Beginners](https://www.youtube.com/watch?v=t7xUvFs3cPI&list=UUuD-wbMZDn2C2_GwcMqterg)
 
 
 # Libraries
 - [ReactiveCocoa](https://github.com/ReactiveCocoa/ReactiveCocoa)
 - [Alamofire](https://github.com/Alamofire/Alamofire/tree/swift-2.0)
 - [iOS Charts](https://github.com/danielgindi/ios-charts)
+- [Dollar and Cent](https://github.com/ankurp/Dollar.swift)
 - [BEMSimpleLineGraph](https://github.com/Boris-Em/BEMSimpleLineGraph)
 - [SwiftLint](https://github.com/realm/SwiftLint)
 - [Spring](https://github.com/MengTo/Spring)
@@ -90,6 +101,7 @@ The following guide is a collection of swift resources I have been/will be learn
 - [HanekeSwift](https://github.com/Haneke/HanekeSwift)
 - [Surge](https://github.com/mattt/Surge)
 - [WobbleView](https://github.com/inFullMobile/WobbleView)
+- [LTMorphingLabel](https://github.com/lexrus/LTMorphingLabel)
 
 
 # Podcasts
@@ -108,6 +120,7 @@ The following guide is a collection of swift resources I have been/will be learn
 - [iOS 8 Programming Fundamentals with Swift](http://shop.oreilly.com/product/0636920034278.do)
 - [Beginning iOS 8 Programming with Swift](http://www.appcoda.com/swift)
 - [Swift Tutorials by Ray Wenderlich](http://www.raywenderlich.com/74832/three-new-swift-books)
+- [iOS Animations by Tutorials](http://www.raywenderlich.com/store/ios-animations-by-tutorials)
 
 
 # Meetups
