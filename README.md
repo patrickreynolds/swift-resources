@@ -21,7 +21,7 @@ The following guide is a collection of swift resources I have been/will be learn
 - [Books](#books)
 - [Meetups](#meetups)
 - [Misc](#misc)
-- Conclusion
+- [Conclusion](#conclusion)
 
 
 # Blogs
@@ -37,6 +37,7 @@ The following guide is a collection of swift resources I have been/will be learn
 - [Beginners Guide to Swift](http://blog.teamtreehouse.com/an-absolute-beginners-guide-to-swift)
 - [Swift Programming Lanaguage Intro](http://www.appcoda.com/swift-programming-language-intro)
 - [Learnswift.io](http://www.learnswift.io)
+- [Swift Forward](https://swiftforward.wordpress.com)
 
 
 # Awesome Swifters
@@ -75,16 +76,20 @@ The following guide is a collection of swift resources I have been/will be learn
 - [Stanford CS 193p](https://itunes.apple.com/us/course/developing-ios-8-apps-swift/id961180099)
 	- An incredible course taught by Paul Hagarty (former Apple engineer). For those intersted in any topics that might not have been covered here, he has done many courses in the past, although they're in Objective-C (tear). The most recent course before the course taught in Swift was Paul's course in the [Fall '14](https://itunes.apple.com/us/course/developing-ios-7-apps-for/id733644550).
 
-- [A Better Way to Learn Swift by thinkster](https://thinkster.io/a-better-way-to-learn-swift/)
+- [Swift Education Project](https://swifteducation.github.io)
+- [250+ Swift Language Tutorials](https://www.youtube.com/playlist?list=PLxwBNxx9j4PUpjCEVwjqFvNecNvQ6Dj6G)
+- [Hacking With Swift](https://www.hackingwithswift.com)
+- [A Better Way to Learn Swift by thinkster](https://thinkster.io/a-better-way-to-learn-swift)
 - [Learn iOS Development with Swift by Treehouse](https://teamtreehouse.com/tracks/ios-development-with-swift)
 - [Intro to iOS App Development with Swift by Udacity](https://www.udacity.com/course/intro-to-ios-app-development-with-swift--ud585)
 - [Swift: First Look](https://www.codeschool.com/pluralsight-courses/swift-first-look)
 - [The Complete iOS8 and Swift Course](https://www.udemy.com/complete-ios-developer-course)
-- [Swift Tutorials by Novall Khan](https://www.youtube.com/playlist?list=PLNh8C75j8VxZdSBzSKwAClGulfUwmajzH)
 - [Swift for Absolute Beginners](https://www.youtube.com/watch?v=t7xUvFs3cPI&list=UUuD-wbMZDn2C2_GwcMqterg)
 
 
 # Libraries
+- [Trending Swift GitHub Repositories](https://github.com/trending?l=swift&since=monthly)
+
 - [ReactiveCocoa](https://github.com/ReactiveCocoa/ReactiveCocoa) - ReactiveCocoa (RAC) is an Objective-C framework inspired by Functional Reactive Programming. It provides APIs for composing and transforming streams of values.
 
 - [Alamofire](https://github.com/Alamofire/Alamofire/tree/swift-2.0) - Alamofire is an HTTP networking library written in Swift.
@@ -136,7 +141,7 @@ The following guide is a collection of swift resources I have been/will be learn
 - [The Swift programming Language](https://itunes.apple.com/us/book/swift-programming-language/id881256329)
 	- [The Swift Programming Language (Swift 2 Prerelease)](https://itunes.apple.com/us/book/swift-programming-language/id1002622538)
 - [Using Swift with Cocoa and Objective-C](https://itunes.apple.com/us/book/using-swift-cocoa-objective/id888894773)
-	- [The Swift Programming Language (Swift 2 Prerelease)](https://	itunes.apple.com/us/book/using-swift-cocoa-objective/id1002624212)
+	- [Using Swift with Cocoa and Objective-C (Swift 2 Prerelease)](https://itunes.apple.com/us/book/using-swift-cocoa-objective/id1002624212)
 - [Functional Reactive Programming on iOS](https://leanpub.com/iosfrp)
 - [Functional Programming in Swift](http://www.objc.io/books/fpinswift)
 - [iOS 8 Programming Fundamentals with Swift](http://shop.oreilly.com/product/0636920034278.do)
