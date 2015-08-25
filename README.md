@@ -2,7 +2,7 @@ Swift Resources
 ===============
 
 Hey swifters, swifties, swiftsman, swiftitos, and swiftitas!  
-The following guide is a collection of swift resources I have been/will be learning Swift from, so of course, why not share? I'll be sending out links and providing feedback as I work through some of these resources on my own as well. Happy Swifting!
+The following guide is a collection of swift resources I have been/will be learning Swift from, so of course, why not share? I'll be adding links and providing feedback as I work through some of these resources on my own as well. Happy Swifting!
 
 
 # Contents
