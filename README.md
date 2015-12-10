@@ -82,48 +82,8 @@ The following guide is a collection of swift resources I have been/will be learn
 
 
 # Libraries
-- [Trending Swift GitHub Repositories](https://github.com/trending?l=swift&since=monthly)
-
-- [ReactiveCocoa](https://github.com/ReactiveCocoa/ReactiveCocoa) - ReactiveCocoa (RAC) is an Objective-C framework inspired by Functional Reactive Programming. It provides APIs for composing and transforming streams of values.
-
-- [Alamofire](https://github.com/Alamofire/Alamofire/tree/swift-2.0) - Alamofire is an HTTP networking library written in Swift.
-
-- [iOS Charts](https://github.com/danielgindi/ios-charts) - An implementation of Android's MPAndroidChart in swift.
-
-- [Dollar and Cent](https://github.com/ankurp/Dollar) - Dollar is a Swift library that provides useful functional programming helper methods without extending any built in objects. It is similar to Lo-Dash or Underscore.js in Javascript.
-
-- [BEMSimpleLineGraph](https://github.com/Boris-Em/BEMSimpleLineGraph) - BEMSimpleLineGraph makes it easy to create and customize line graphs for iOS.
-
-- [SwiftLint](https://github.com/realm/SwiftLint) - An experimental tool to enforce Swift style and conventions, loosely based on GitHub's Swift Style Guide.
-
-- [Spring](https://github.com/MengTo/Spring) - An iOS animation library meant to make it far easier to do animations using Runtime Attributes in Storyboard.
-
-- [Quick](https://github.com/Quick/Quick) - Quick is a behavior-driven development framework for Swift and Objective-C.
-
-- [Animated Tab Bar](https://github.com/Ramotion/animated-tab-bar) - RAMAnimatedTabBarController is a Swift module for adding animation to tabbar items. It has pre-set of animations which we prepare for you, and ability to use any custom animation you want.
-
-- [SCLAlertView-Swift](https://github.com/vikmeup/SCLAlertView-Swift) - Animated Alert View written in Swift, which can be used as a UIAlertView or UIAlertController replacement.
-
-- [Cartography](https://github.com/robb/Cartography) - Set up your Auto Layout constraints declaratively and without any stringly typing.
-
-- [Swiftz](https://github.com/typelift/Swiftz) - Swiftz is a Swift library for functional programming. It defines functional data structures, functions, idioms, and extensions that augment the Swift standard library.
-
-- [SnapKit](https://github.com/SnapKit/SnapKit) - SnapKit is a DSL to make Auto Layout easy on both iOS and OS X.
-
-- [Kingfisher](https://github.com/onevcat/Kingfisher) - Kingfisher is a lightweight and pure Swift implemented library for downloading and caching image from the web.
-
-- [HanekeSwift](https://github.com/Haneke/HanekeSwift) - Haneke is a lightweight generic cache for iOS written in Swift 1.2.
-
-- [Surge](https://github.com/mattt/Surge) - Accelerate is a framework that provides high-performance functions for matrix math, digital signal processing, and image manipulation.
-
-- [WobbleView](https://github.com/inFullMobile/WobbleView) - WobbleView is an implementation of a recently popular wobble effect for any view in your app. It can be used to easily add dynamics to user interactions and transitions.
-
-- [LTMorphingLabel](https://github.com/lexrus/LTMorphingLabel) - A morphing UILabel subclass written in Swift.
-
-- [Koloda](https://github.com/Yalantis/Koloda) - KolodaView is a class designed to simplify the implementation of Tinder like cards on iOS.
-
-- [Butterfly](https://github.com/wongzigii/Butterfly) - Butterfly is a lightweight library for integrating bug-report and feedback features with shake-motion event elegantly.
-
+- [Trending Swift GitHub Repositories](https://github.com/trending?l=swift&since=monthly) - For a list of all currently trending swift projects on github (monthly).
+- [Awesome iOS](https://github.com/vsouza/awesome-ios) - See Awesome iOS for a list of maintained libraries far beyond the scale of this resource.
 
 # Podcasts
 - [App Marketing & Design Tips for iOS](https://itunes.apple.com/us/podcast/app-masters-mobile-growth/id643216602)
