@@ -58,6 +58,7 @@ The following guide is a collection of swift resources I have been/will be learn
 - [Lex Tang](https://github.com/lexrus)
 - [Arkadiusz Holko](https://github.com/fastred)
 - [Ankur Patel](https://github.com/ankurp)
+- [iOS Peeps](https://twitter.com/preynolds_/lists/ios-peeps) - My personal list of 300ish iOS "devs to follow"
 
 
 # Apple Docs
