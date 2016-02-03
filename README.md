@@ -86,6 +86,7 @@ The following guide is a collection of swift resources I have been/will be learn
 - [Trending Swift GitHub Repositories](https://github.com/trending?l=swift&since=monthly) - For a list of all currently trending swift projects on github (monthly).
 - [Awesome iOS](https://github.com/vsouza/awesome-ios) - See Awesome iOS for a list of maintained libraries far beyond the scale of this resource.
 
+
 # Podcasts
 - [App Marketing & Design Tips for iOS](https://itunes.apple.com/us/podcast/app-masters-mobile-growth/id643216602)
 - [Swiftcast Podcast by UnicornTV](https://itunes.apple.com/us/podcast/swiftcasttv/id924601425)
@@ -103,6 +104,7 @@ The following guide is a collection of swift resources I have been/will be learn
 - [Beginning iOS 8 Programming with Swift](http://www.appcoda.com/swift)
 - [Swift Tutorials by Ray Wenderlich](http://www.raywenderlich.com/74832/three-new-swift-books)
 - [iOS Animations by Tutorials](http://www.raywenderlich.com/store/ios-animations-by-tutorials)
+- [Learn Swift by Aidan Finn](http://books.aidanf.net/learn-swift)
 
 
 # Meetups
