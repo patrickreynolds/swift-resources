@@ -32,6 +32,7 @@ The following guide is a collection of swift resources I have been/will be learn
 - [Swift Programming Lanaguage Intro](http://www.appcoda.com/swift-programming-language-intro)
 - [Learnswift.io](http://www.learnswift.io)
 - [Swift Forward](https://swiftforward.wordpress.com)
+- [Swift Programming Language on Medium](https://medium.com/swift-programming)
 
 
 # Awesome Swifters
